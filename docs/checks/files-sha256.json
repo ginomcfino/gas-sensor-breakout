@@ -1,0 +1,19 @@
+{
+  ".gitignore": "227b7e1c5e34bf41b61ad8d5b4b68cb6db590ed68cadfa0bcf3a3229eb22a195",
+  "README.md": "e24a93900a910f7f3d08f291a9be4d393defa0b0e1afdf9fb4541345d515a218",
+  "docs/README.md": "49e6c5bcb4dd65a2912b6072ccd221c06877ce51a56bce4cc3627dd65ead96d1",
+  "docs/checks/README.md": "92cea03d36ca9245ec7586bd0a80ca0d2e63e6217083b2e5b819970fe614d26e",
+  "docs/checks/drc.json": "353f63379b617b7e19c6c682d521a8720f4fcd4330edf8b34b92c81b6637cb85",
+  "docs/checks/erc.json": "13c1cf1673c2c575d068eec6e1f84dba3d7aa3f7f9774674d62db6a4d69080c1",
+  "docs/images/pcb-3d-render.png": "3f6e74aec01c5ce5ed534e3e1ef1b56a2b467798bb8eda3214dd947ba1e812b5",
+  "docs/images/pcb-back.svg": "a28d7a974575f29b76dd8ca3b9a4f546c0e64e180f8760b7d6c6f827eeee5562",
+  "docs/images/pcb-front.svg": "294eb1f35d07d2d1eb181de627bca9d5ec58b58a4375831ccdb4a22b68b6b4ab",
+  "docs/images/schematic-overview.png": "76d4a48751a8a1c3f7dd37b5dba923437f48cfe6647230b533a15a9f9c089a63",
+  "docs/images/schematic-sensors.png": "9d1c9817003793232424a51691f93be6f58eaee57d362b95c40997106a6ec492",
+  "exports/bom.csv": "e5a778a122ec1f7f7995c93cee3450d3d1c3aa80d42d743f3d995690fa07a17b",
+  "exports/schematic.pdf": "c93f93edd828e028b4987e98000cf959340792a0cc122ff5e6c6b730f9f3a02e",
+  "hardware/gas-sensor-breakout.kicad_pcb": "789a1df4c4665233bc9856939e8d62b56b52607be358007550c41ad743b30965",
+  "hardware/gas-sensor-breakout.kicad_pro": "7c3fb0cdcedd1a24ad156c1fbc0d66a7527e96067beced81c5742a053fb31822",
+  "hardware/gas-sensor-breakout.kicad_sch": "9b6fa2e584e594ce5e7eca0b2047009b02f9ab93653126c1477aa4176dd5f0f6",
+  "hardware/sensors_subcircuit.kicad_sch": "f99a444f84305fdf647e521c30cfae4f6fd1e411913f4dece3a00891dd656603"
+}
